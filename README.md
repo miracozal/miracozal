@@ -10,7 +10,7 @@
  </tr>  
 </table>
 
-<h2 align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47zqrzi32rcp8ypfkctf60msp7rtven3vkc5m0u50n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40">MY INFORMATION :
+<h2 align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47zqrzi32rcp8ypfkctf60msp7rtven3vkc5m0u50n&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="30">MY INFORMATION :
 </b></h3>
 
 ```go
