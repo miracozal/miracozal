@@ -137,7 +137,7 @@ class Program
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-<p align="center"><img src="./images/snake.svg"></p>
+<p align="center"><img src="./images/snake.gif"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
