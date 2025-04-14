@@ -93,6 +93,14 @@ class Program
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
       <br>React
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -122,16 +130,6 @@ class Program
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
   </tr>
  <tr>
