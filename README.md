@@ -62,7 +62,7 @@ class Program
 
 <p align="center"><img src="https://media.giphy.com/media/HUE4sDmjViSkKqLY77/giphy.gif?cid=ecf05e47z2kssaf52bmitpq1uzyoxahh8mjoq09iy15u6ma9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"></p>
 
-## <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif?cid=ecf05e47onxyei0fedzbbiyhosdgk8z61lrp2djb8d11d50q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=3%>Spent My Time 
+## <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif?cid=ecf05e47onxyei0fedzbbiyhosdgk8z61lrp2djb8d11d50q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=5%>Spent My Time 
 
 <br>
 
