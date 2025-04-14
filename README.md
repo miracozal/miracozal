@@ -1,4 +1,5 @@
 ## Hi there 👋
+![alt text](https://github.com/miracozal/miracozal/blob/main/images/header.jpg?raw=true)
 
 <!--
 **miracozal/miracozal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
