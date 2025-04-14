@@ -1,5 +1,5 @@
-<img width=100% title="Miraç ÖZAL" alt="Miraç ÖZAL" src="https://github.com/miracozal/miracozal/blob/main/images/header.jpg?raw=true"/>
-
+[<img width=100% title="Miraç ÖZAL" alt="Miraç ÖZAL" src="https://github.com/miracozal/miracozal/blob/main/images/header.jpg?raw=true"/>
+](url)
 <table border="0">
  <tr>
     <td>
