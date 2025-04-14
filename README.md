@@ -57,7 +57,7 @@ class Program
 
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirac.ozal@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mirac-ozal"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miracozal"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </br>
 
 <p align="center"><img src="https://media.giphy.com/media/HUE4sDmjViSkKqLY77/giphy.gif?cid=ecf05e47z2kssaf52bmitpq1uzyoxahh8mjoq09iy15u6ma9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"></p>
