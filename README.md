@@ -55,10 +55,10 @@ class Program
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-## <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhqeXYxMmMyZzg4dGpxbHEyOGgyMGVvdnkxNndueTI3dGZndXh4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c6LsXARy3A9PxbmgAj/giphy.gif' width="50px" height=50px>
-
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirac.ozal@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirac.ozal@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mirac-ozal"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</br>
 
 <p align="center"><img src="https://media.giphy.com/media/HUE4sDmjViSkKqLY77/giphy.gif?cid=ecf05e47z2kssaf52bmitpq1uzyoxahh8mjoq09iy15u6ma9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"></p>
 
