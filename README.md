@@ -33,7 +33,7 @@ class Program
         {
             name = "Miraç ÖZAL",
             username = "miracozal",
-            age = 27,
+            age = 28,
             job = "Full-stack developer",
             hobbies = new string[] { "code", "music", "gaming", "walking", "nature sports" }
         };
